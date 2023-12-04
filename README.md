@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn and work as a team
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate in teams to develop skills
-- 📫 How to reach me ...
+- 📫 How to reach me : https://www.linkedin.com/in/jose-capdevila-11a83b299
 
 <!---
 JosCapdev/JosCapdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
